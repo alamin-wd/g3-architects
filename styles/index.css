@@ -1,0 +1,28 @@
+
+/* Work Sans Font  */
+
+
+.work-sans-uniquifier {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* Shared Styles */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    max-width: 1440px;
+    padding: 0px 240px;
+}
+
+/* Header Section Styles Start */
+
+.header-container{
+    background-color: #FF900E1A;
+}
